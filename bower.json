@@ -6,9 +6,9 @@
     "Guys at Twitter #respect"
   ],
   "version": "0.11.1",
-  "main": "dist/typeahead.bundle.js",
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": ">=1.7",
+    "typeahead.js": "masearchbox#^0.11.2"
   },
   "devDependencies": {
     "jquery": "~1.7",
